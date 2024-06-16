@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="article_saved_success">News article saved successfully!!!</string>
+    <string name="article_restored_success">News article restored successfully!!!</string>
+    <string name="article_deleted_success">News article deleted successfully…</string>
+    <string name="undo">Undo</string>
+</resources>
